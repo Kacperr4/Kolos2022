@@ -44,4 +44,14 @@ public class Main {
         System.out.println(cart.getPrice(2020,4));
         System.out.println(cart.getInflation(2020,1,2022,1));
     }
+
+
+
+    /*https://github.com/Kacperr4/Kolos2022
+    https://github.com/kdmitruk
+    https://github.com/mdpiekarz/java_lab_2024
+    https://github.com/michaldziuba03/java
+    https://github.com/Innocenttt3/Semestr2-OOP
+    https://mvnrepository.com/artifact/junit/junit/4.13.1
+    * */
 }
